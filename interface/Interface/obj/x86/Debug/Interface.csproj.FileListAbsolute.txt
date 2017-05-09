@@ -1,0 +1,10 @@
+c:\users\angelo maragos\documents\visual studio 2010\Projects\Interface\Interface\bin\Debug\Interface.exe
+c:\users\angelo maragos\documents\visual studio 2010\Projects\Interface\Interface\bin\Debug\Interface.pdb
+c:\users\angelo maragos\documents\visual studio 2010\Projects\Interface\Interface\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\angelo maragos\documents\visual studio 2010\Projects\Interface\Interface\obj\x86\Debug\Interface.exe
+c:\users\angelo maragos\documents\visual studio 2010\Projects\Interface\Interface\obj\x86\Debug\Interface.pdb
+C:\Users\Angelo\Desktop\maragos-assignment7\Interface\Interface\obj\x86\Debug\Interface.exe
+C:\Users\Angelo\Desktop\maragos-assignment7\Interface\Interface\obj\x86\Debug\Interface.pdb
+C:\Users\Angelo\Desktop\maragos-assignment7\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\Angelo\Desktop\maragos-assignment7\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\Angelo\Desktop\maragos-assignment7\Interface\Interface\obj\x86\Debug\Interface.csprojResolveAssemblyReference.cache
